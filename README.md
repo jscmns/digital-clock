@@ -1,0 +1,1 @@
+This is a simple digital clock that runs in the browser, made with vanilla JS
